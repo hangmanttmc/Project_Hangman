@@ -1,1 +1,3 @@
-print('testhusadsauhdsauhndsaoundosanjudsanoudsansda')
+print('Projeto hanghomem funcionando')
+
+resposta = 'BATATA'
